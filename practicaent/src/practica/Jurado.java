@@ -24,4 +24,5 @@ public class Jurado extends Persona{
 		fraseNominar=teclado.nextLine();
 		System.out.println(fraseNominar);
 	}
+	//HELOOOOO SOY SONIA Y VOY HCAER UN CAMBIO
 }
